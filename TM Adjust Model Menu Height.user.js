@@ -10,7 +10,7 @@
 // @require      https://raw.githubusercontent.com/asgeirtj/tampermonkey-scripts/main/TM Adjust Model Menu Height.user.js
 // ==/UserScript==
 
-// IMPORTANT: When providing updates to this script, always increment the version number in the metadata block above.
+// IMPORTANT: When providing updates to this script, always increment the version number in the metadata block above
 
 (function() {
     'use strict';
